@@ -12,7 +12,7 @@ with open('Menu.txt', 'w') as menu_file:
                      '2: Margarita\n'
                      '3: Türk Pizza\n'
                      '4: Sade Pizza\n\n'
-                     've seçeceğiniz sos:'
+                     've seçeceğiniz sos:\n'
                      '11: Zeytin\n'
                      '12: Mantarlar\n'
                      '13: Keçi Peyniri\n'
