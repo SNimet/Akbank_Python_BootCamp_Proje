@@ -1,0 +1,13 @@
+Müşteri Adı,Kimlik Numarası,Kredi Kartı Numarası,Kart Şifresi,Pizza Seçimi,Ücret,Sipariş Zamanı
+Meltem,11,22,33,Sade Pizza Mantarlar,20.5,2023-03-12 23:08:51
+Zeki,22,22,33,Sade Pizza Zeytin,20.0,2023-03-12 23:10:13
+Sare,44,55,66,Klasik Pizza Mantarlar,17.5,2023-03-12 23:11:15
+Emrah,44,55,66,Türk Pizza Keçi Peyniri,23.0,2023-03-12 23:19:32
+fatma,38,42,666,Margarita Pizza Mısır,19.0,2023-03-13 21:18:33
+Sevgi,12,21,1,Türk Pizza Zeytin,22.0,2023-03-13 21:20:09
+Zehra,22,11,33,Sade Pizza Et,22.0,2023-03-13 21:21:05
+Seda,11,22,33,Sade Pizza Et,22.0,2023-03-13 21:36:46
+Sevda,11,22,33,Sade Pizza Et,22.0,2023-03-13 21:38:36
+Övgü,11,22,33,Sade Pizza Zeytin,20.0,2023-03-13 21:39:09
+Talat,11,22,33,Sade Pizza Zeytin,20.0,2023-03-13 21:39:52
+Ajda,22,33,44,Sade Pizza Et,22.0,2023-03-13 21:40:31
